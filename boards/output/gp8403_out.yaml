@@ -1,0 +1,97 @@
+output:
+  - platform: gp8403
+    gp8403_id: gp8403_0
+    channel: 0
+    id: ao1
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_0
+    channel: 1
+    id: ao2
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_1
+    channel: 0
+    id: ao3
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_1
+    channel: 1
+    id: ao4
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_2
+    channel: 0
+    id: ao5
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_2
+    channel: 1
+    id: ao6
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_3
+    channel: 0
+    id: ao7
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_3
+    channel: 1
+    id: ao8
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_4
+    channel: 0
+    id: ao9
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_4
+    channel: 1
+    id: ao10
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_5
+    channel: 0
+    id: ao11
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_5
+    channel: 1
+    id: ao12
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_6
+    channel: 0
+    id: ao13
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_6
+    channel: 1
+    id: ao14
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_7
+    channel: 0
+    id: ao15
+    min_power: 0.1
+    zero_means_zero: True
+  - platform: gp8403
+    gp8403_id: gp8403_7
+    channel: 1
+    id: ao16
+    min_power: 0.1
+    zero_means_zero: True
