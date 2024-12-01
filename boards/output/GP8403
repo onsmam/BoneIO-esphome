@@ -1,0 +1,25 @@
+gp8403:
+  - id: gp8403_0
+    voltage: 10v
+    address: 0x58
+  - id: gp8403_1
+    voltage: 10v
+    address: 0x59
+  - id: gp8403_2
+    voltage: 10v
+    address: 0x5A
+  - id: gp8403_3
+    voltage: 10v
+    address: 0x5B
+  - id: gp8403_4
+    voltage: 10v
+    address: 0x5C
+  - id: gp8403_5
+    voltage: 10v
+    address: 0x5D
+  - id: gp8403_6
+    voltage: 10v
+    address: 0x5E
+  - id: gp8403_7
+    voltage: 10v
+    address: 0x5F
